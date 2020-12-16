@@ -111,7 +111,7 @@ public:
    */
   void cutSphere(int xcenter, int ycenter, int zcenter, int radius);
   /**
-   * @brief Criar uma sequência de Voxels em forma de esfera.
+   * @brief Criar uma sequência de Voxels em forma de elipsóide.
    * @param xcenter é o parâmetro com o valor do centro da elipsóide na coordenada x;
    * @param ycenter é o parâmetro com o valor do centro da elipsóide na coordenada y;
    * @param zcenter é o parâmetro com o valor do centro da elipsóide na coordenada z;
